@@ -1,4 +1,4 @@
-# Visualização do site
+# Visualização do template do site
 http://127.0.0.1:5502/alura-store/comEstilo.html
 
 # Grid
